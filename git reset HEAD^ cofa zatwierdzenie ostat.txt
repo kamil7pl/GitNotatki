@@ -1,0 +1,1 @@
+git reset HEAD^ cofa zatwierdzenie ostatniego commita czyli git commit.
